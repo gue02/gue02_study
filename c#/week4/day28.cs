@@ -16,7 +16,7 @@ class Car
 	}
 	public void show()
 	{
-		Console.WriteLine($"{brand} ÇöÀç ¼Óµµ : {speed}");
+		Console.WriteLine($"{brand} í˜„ì¬ ì†ë„ : {speed}");
 	}
 }
 class Program
