@@ -1,0 +1,15 @@
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.AssemblyInfoInputs.cache
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.AssemblyInfo.cs
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.csproj.CoreCompileInputs.cache
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.sourcelink.json
+C:\study\gue02_study\c#\week5\day30\bin\Debug\net9.0\day30.exe
+C:\study\gue02_study\c#\week5\day30\bin\Debug\net9.0\day30.deps.json
+C:\study\gue02_study\c#\week5\day30\bin\Debug\net9.0\day30.runtimeconfig.json
+C:\study\gue02_study\c#\week5\day30\bin\Debug\net9.0\day30.dll
+C:\study\gue02_study\c#\week5\day30\bin\Debug\net9.0\day30.pdb
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.dll
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\refint\day30.dll
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.pdb
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\day30.genruntimeconfig.cache
+C:\study\gue02_study\c#\week5\day30\obj\Debug\net9.0\ref\day30.dll
