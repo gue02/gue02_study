@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "c#", "c#", "{1DBD47E2-544B-F58A-27AE-70AE938492FA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "week5", "week5", "{D17D7469-0423-80D1-1B07-FC929AFD47F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "day30", "c#\week5\day30\day30.csproj", "{133EE515-B000-BAA2-B405-E001696B89E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{133EE515-B000-BAA2-B405-E001696B89E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{133EE515-B000-BAA2-B405-E001696B89E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{133EE515-B000-BAA2-B405-E001696B89E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{133EE515-B000-BAA2-B405-E001696B89E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D17D7469-0423-80D1-1B07-FC929AFD47F6} = {1DBD47E2-544B-F58A-27AE-70AE938492FA}
+		{133EE515-B000-BAA2-B405-E001696B89E1} = {D17D7469-0423-80D1-1B07-FC929AFD47F6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {960FFEA4-4279-4115-B0FC-3C84092CBF63}
+	EndGlobalSection
+EndGlobal
