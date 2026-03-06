@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\study\\gue02_study\\c#\\week5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\study\\gue02_study\\c#\\week5\\day29_ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:day29_ex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\study\\gue02_study\\c#\\week5\\day31\\day31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:day31\\day31.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "day29_ex1.cs",
-              "DocumentMoniker": "C:\\study\\gue02_study\\c#\\week5\\day29_ex1.cs",
-              "RelativeDocumentMoniker": "day29_ex1.cs",
-              "ToolTip": "C:\\study\\gue02_study\\c#\\week5\\day29_ex1.cs",
-              "RelativeToolTip": "day29_ex1.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAHQAAAAFAAAAAAAAAA==",
+              "Title": "day31.cs",
+              "DocumentMoniker": "C:\\study\\gue02_study\\c#\\week5\\day31\\day31.cs",
+              "RelativeDocumentMoniker": "day31\\day31.cs",
+              "ToolTip": "C:\\study\\gue02_study\\c#\\week5\\day31\\day31.cs",
+              "RelativeToolTip": "day31\\day31.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T12:48:51.003Z",
+              "WhenOpened": "2026-03-06T10:56:35.669Z",
               "EditorCaption": ""
             }
           ]
