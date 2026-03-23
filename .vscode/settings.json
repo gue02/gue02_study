@@ -6,6 +6,8 @@
       "args": ["-NoLogo"],
       "env": { "PYTHONUTF8": "1" }
     }
-  },
+    
+  }
+  ,
   "C_Cpp.errorSquiggles": "disabled"
 }
